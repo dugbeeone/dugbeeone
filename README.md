@@ -1,7 +1,7 @@
 <details open>
     <summary>
         <h2>
-            English (:3)
+            English (🏴󠁧󠁢󠁥󠁮󠁧󠁿)
         </h2>
     </summary>
     <h1>
