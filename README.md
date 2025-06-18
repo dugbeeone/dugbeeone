@@ -7,7 +7,7 @@
     <h1>
         Hi there 👋
     </h1>
-    - 🔭 I’m currently working on Cloak Plus
+    - 🔭 I’m currently working on <a href="https://github.com/dugbeeone/Cloak-Plus">Cloak Plus</a>
     <br> - 🌱 I’m currently learning Computer Science
     <br> - 👯 I’m looking to collaborate on anything and everything
     <br> - 🤔 I’m looking for help with filing my taxes
@@ -33,7 +33,7 @@
     <h1>
         Hola 👋
     </h1>
-    - 🔭 Actualmente estoy trabajando en Cloak Plus
+    - 🔭 Actualmente estoy trabajando en <a href="https://github.com/dugbeeone/Cloak-Plus">Cloak Plus</a>
     <br> - 🌱 Actualmente estoy aprendiendo Ciencias de la Computación
     <br> - 👯 Busco colaborar en cualquier cosa y en todo
     <br> - 🤔 Estoy buscando ayuda con la declaración de impuestos
@@ -59,7 +59,7 @@
     <h1>
         Salut 👋
     </h1>
-    - 🔭 Je travaille actuellement sur Cloak Plus
+    - 🔭 Je travaille actuellement sur <a href="https://github.com/dugbeeone/Cloak-Plus">Cloak Plus</a>
     <br> - 🌱 J'apprends actuellement l'informatique
     <br> - 👯 Je cherche à collaborer sur tout et n'importe quoi
     <br> - 🤔 Je cherche de l'aide pour produire ma déclaration de revenus
