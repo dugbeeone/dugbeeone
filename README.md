@@ -12,7 +12,6 @@
     <br> - 👯 I’m looking to collaborate on anything and everything
     <br> - 🤔 I’m looking for help with filing my taxes
     <br> - 💬 Ask me about anything
-    <br> - 📫 How to reach me: <a href="https://discord.gg/7C67SdTNPC">dsc.gg/dogbone</a>
     <br> - 😄 Pronouns: he/they
     <br> - ⚡ Fun fact: I speak four languages
     <br>
@@ -38,7 +37,6 @@
     <br> - 👯 Busco colaborar en cualquier cosa y en todo
     <br> - 🤔 Estoy buscando ayuda con la declaración de impuestos
     <br> - 💬 Pregúntame sobre cualquier cosa
-    <br> - 📫 Cómo contactarme: <a href="https://discord.gg/7C67SdTNPC">dsc.gg/dogbone</a>
     <br> - 😄 Pronombres: él/ellos
     <br> - ⚡ Dato curioso: Hablo cuatro idiomas
     <br>
@@ -64,7 +62,6 @@
     <br> - 👯 Je cherche à collaborer sur tout et n'importe quoi
     <br> - 🤔 Je cherche de l'aide pour produire ma déclaration de revenus
     <br> - 💬 Posez-moi des questions sur n'importe quoi
-    <br> - 📫 Comment me rejoindre: <a href="https://discord.gg/7C67SdTNPC">dsc.gg/dogbone</a>
     <br> - 😄 Pronoms : il/ils
     <br> - ⚡ Fait amusant: Je parle quatre langues
     <br>
